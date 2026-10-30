@@ -1,3 +1,8 @@
+> **Moved.** This project now lives in [amigaux/amix](https://github.com/amigaux/amix) as
+> [`kernel/k30`](https://github.com/amigaux/amix/tree/master/kernel/k30), with its history (see
+> `kernel/k30/docs/history-map.txt` there for the old-to-new commit map). This repository is
+> archived and no longer updated.
+
 # amix-kerntools — the Amiga UNIX kernel build hub
 
 **Amix** is Commodore's port of AT&T System V Release 4 (SVR4.0) UNIX to the 68030 Amiga
